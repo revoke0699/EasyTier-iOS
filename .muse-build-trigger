@@ -1,2 +1,3 @@
 Trigger nightly TrollStore build via push to main.
 Requested: 2026-11-26 (Asia/Shanghai)
+Retrigger after Actions enabled by owner.
